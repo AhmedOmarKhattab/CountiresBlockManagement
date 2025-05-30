@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "JW216n5PbMvGQkrSbdTNKb8hqG12Zz/qQjeleBB/K8A=",
+  "Source": "BlockCountriesTask",
+  "BasePath": "_content/BlockCountriesTask",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

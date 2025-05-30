@@ -1,0 +1,462 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\C# projects\\BlockCountriesTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|d:\\projects\\c# projects\\blockcountriestask\\controllers\\ipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|solutionrelative:controllers\\ipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|d:\\projects\\c# projects\\blockcountriestask\\services\\iplookupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|solutionrelative:services\\iplookupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|d:\\projects\\c# projects\\blockcountriestask\\services\\blockedlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|solutionrelative:services\\blockedlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|d:\\projects\\c# projects\\blockcountriestask\\services\\countryblockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|solutionrelative:services\\countryblockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|d:\\projects\\c# projects\\blockcountriestask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|d:\\projects\\c# projects\\blockcountriestask\\blockcountriestask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|solutionrelative:blockcountriestask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|d:\\projects\\c# projects\\blockcountriestask\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|solutionrelative:middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|d:\\projects\\c# projects\\blockcountriestask\\services\\tempblockcleanupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|solutionrelative:services\\tempblockcleanupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|d:\\projects\\c# projects\\blockcountriestask\\services\\temporalblockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|solutionrelative:services\\temporalblockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|d:\\projects\\c# projects\\blockcountriestask\\iservices\\iiplookupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|solutionrelative:iservices\\iiplookupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|d:\\projects\\c# projects\\blockcountriestask\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|solutionrelative:controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|d:\\projects\\c# projects\\blockcountriestask\\dtos\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|solutionrelative:dtos\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|d:\\projects\\c# projects\\blockcountriestask\\dtos\\iplookupresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|solutionrelative:dtos\\iplookupresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|d:\\projects\\c# projects\\blockcountriestask\\dtos\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|solutionrelative:dtos\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|d:\\projects\\c# projects\\blockcountriestask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|d:\\projects\\c# projects\\blockcountriestask\\controllers\\errorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|solutionrelative:controllers\\errorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|d:\\projects\\c# projects\\blockcountriestask\\response\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|solutionrelative:response\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|d:\\projects\\c# projects\\blockcountriestask\\iservices\\icountryblockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|solutionrelative:iservices\\icountryblockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|d:\\projects\\c# projects\\blockcountriestask\\controllers\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|solutionrelative:controllers\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|d:\\projects\\c# projects\\blockcountriestask\\iservices\\iblockedlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|solutionrelative:iservices\\iblockedlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|d:\\projects\\c# projects\\blockcountriestask\\models\\blockedattemptlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|solutionrelative:models\\blockedattemptlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|d:\\projects\\c# projects\\blockcountriestask\\dtos\\temporalblockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|solutionrelative:dtos\\temporalblockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|d:\\projects\\c# projects\\blockcountriestask\\iservices\\itemporalblockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|solutionrelative:iservices\\itemporalblockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|d:\\projects\\c# projects\\blockcountriestask\\errors\\apivalidationerrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|solutionrelative:errors\\apivalidationerrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|d:\\projects\\c# projects\\blockcountriestask\\errors\\apiexceptionerrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|solutionrelative:errors\\apiexceptionerrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|d:\\projects\\c# projects\\blockcountriestask\\specparams\\countryspecparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3266445F-9AD7-4EBF-A3B9-5D6DC9D7FE11}|BlockCountriesTask.csproj|solutionrelative:specparams\\countryspecparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IpLookupService.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\BlockCountriesTask\\Services\\IpLookupService.cs",
+              "RelativeDocumentMoniker": "Services\\IpLookupService.cs",
+              "ToolTip": "D:\\projects\\C# projects\\BlockCountriesTask\\Services\\IpLookupService.cs",
+              "RelativeToolTip": "Services\\IpLookupService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAywCMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T13:16:00.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\BlockCountriesTask\\MiddleWares\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "MiddleWares\\ExceptionMiddleware.cs",
+              "ToolTip": "D:\\projects\\C# projects\\BlockCountriesTask\\MiddleWares\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "MiddleWares\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAtwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T13:23:03.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CountryBlockService.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\BlockCountriesTask\\Services\\CountryBlockService.cs",
+              "RelativeDocumentMoniker": "Services\\CountryBlockService.cs",
+              "ToolTip": "D:\\projects\\C# projects\\BlockCountriesTask\\Services\\CountryBlockService.cs",
+              "RelativeToolTip": "Services\\CountryBlockService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAewBYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T18:56:27.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlockCountriesTask",
+              "DocumentMoniker": "D:\\projects\\C# projects\\BlockCountriesTask\\BlockCountriesTask.csproj",
+              "RelativeDocumentMoniker": "BlockCountriesTask.csproj",
+              "ToolTip": "D:\\projects\\C# projects\\BlockCountriesTask\\BlockCountriesTask.csproj",
+              "RelativeToolTip": "BlockCountriesTask.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-30T13:51:02.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IpController.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\BlockCountriesTask\\Controllers\\IpController.cs",
+              "RelativeDocumentMoniker": "Controllers\\IpController.cs",
+              "ToolTip": "D:\\projects\\C# projects\\BlockCountriesTask\\Controllers\\IpController.cs",
+              "RelativeToolTip": "Controllers\\IpController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwCIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T13:20:58.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\projects\\C# projects\\BlockCountriesTask\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\projects\\C# projects\\BlockCountriesTask\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-30T18:29:54.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlockedLogService.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\BlockCountriesTask\\Services\\BlockedLogService.cs",
+              "RelativeDocumentMoniker": "Services\\BlockedLogService.cs",
+              "ToolTip": "D:\\projects\\C# projects\\BlockCountriesTask\\Services\\BlockedLogService.cs",
+              "RelativeToolTip": "Services\\BlockedLogService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T13:52:31.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TemporalBlockService.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\BlockCountriesTask\\Services\\TemporalBlockService.cs",
+              "RelativeDocumentMoniker": "Services\\TemporalBlockService.cs",
+              "ToolTip": "D:\\projects\\C# projects\\BlockCountriesTask\\Services\\TemporalBlockService.cs",
+              "RelativeToolTip": "Services\\TemporalBlockService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T13:37:17.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IpLookupResultDto.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\BlockCountriesTask\\Dtos\\IpLookupResultDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\IpLookupResultDto.cs",
+              "ToolTip": "D:\\projects\\C# projects\\BlockCountriesTask\\Dtos\\IpLookupResultDto.cs",
+              "RelativeToolTip": "Dtos\\IpLookupResultDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T13:14:52.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TempBlockCleanupService.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\BlockCountriesTask\\Services\\TempBlockCleanupService.cs",
+              "RelativeDocumentMoniker": "Services\\TempBlockCleanupService.cs",
+              "ToolTip": "D:\\projects\\C# projects\\BlockCountriesTask\\Services\\TempBlockCleanupService.cs",
+              "RelativeToolTip": "Services\\TempBlockCleanupService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBIAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T13:44:23.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IIpLookupService.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\BlockCountriesTask\\IServices\\IIpLookupService.cs",
+              "RelativeDocumentMoniker": "IServices\\IIpLookupService.cs",
+              "ToolTip": "D:\\projects\\C# projects\\BlockCountriesTask\\IServices\\IIpLookupService.cs",
+              "RelativeToolTip": "IServices\\IIpLookupService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T13:15:31.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CountriesController.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\BlockCountriesTask\\Controllers\\CountriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CountriesController.cs",
+              "ToolTip": "D:\\projects\\C# projects\\BlockCountriesTask\\Controllers\\CountriesController.cs",
+              "RelativeToolTip": "Controllers\\CountriesController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAIBAwC0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:00:03.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CountryDto.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\BlockCountriesTask\\Dtos\\CountryDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\CountryDto.cs",
+              "ToolTip": "D:\\projects\\C# projects\\BlockCountriesTask\\Dtos\\CountryDto.cs",
+              "RelativeToolTip": "Dtos\\CountryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T12:50:28.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Pagination.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\BlockCountriesTask\\Dtos\\Pagination.cs",
+              "RelativeDocumentMoniker": "Dtos\\Pagination.cs",
+              "ToolTip": "D:\\projects\\C# projects\\BlockCountriesTask\\Dtos\\Pagination.cs",
+              "RelativeToolTip": "Dtos\\Pagination.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T17:46:53.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\BlockCountriesTask\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\projects\\C# projects\\BlockCountriesTask\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T13:23:12.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\BlockCountriesTask\\Response\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Response\\ApiResponse.cs",
+              "ToolTip": "D:\\projects\\C# projects\\BlockCountriesTask\\Response\\ApiResponse.cs",
+              "RelativeToolTip": "Response\\ApiResponse.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAywBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:04:18.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ErrorsController.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\BlockCountriesTask\\Controllers\\ErrorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ErrorsController.cs",
+              "ToolTip": "D:\\projects\\C# projects\\BlockCountriesTask\\Controllers\\ErrorsController.cs",
+              "RelativeToolTip": "Controllers\\ErrorsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T17:44:41.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICountryBlockService.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\BlockCountriesTask\\IServices\\ICountryBlockService.cs",
+              "RelativeDocumentMoniker": "IServices\\ICountryBlockService.cs",
+              "ToolTip": "D:\\projects\\C# projects\\BlockCountriesTask\\IServices\\ICountryBlockService.cs",
+              "RelativeToolTip": "IServices\\ICountryBlockService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T18:55:35.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LogsController.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\BlockCountriesTask\\Controllers\\LogsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LogsController.cs",
+              "ToolTip": "D:\\projects\\C# projects\\BlockCountriesTask\\Controllers\\LogsController.cs",
+              "RelativeToolTip": "Controllers\\LogsController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA2wAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T13:57:59.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BlockedAttemptLog.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\BlockCountriesTask\\Models\\BlockedAttemptLog.cs",
+              "RelativeDocumentMoniker": "Models\\BlockedAttemptLog.cs",
+              "ToolTip": "D:\\projects\\C# projects\\BlockCountriesTask\\Models\\BlockedAttemptLog.cs",
+              "RelativeToolTip": "Models\\BlockedAttemptLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T13:51:24.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IBlockedLogService.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\BlockCountriesTask\\IServices\\IBlockedLogService.cs",
+              "RelativeDocumentMoniker": "IServices\\IBlockedLogService.cs",
+              "ToolTip": "D:\\projects\\C# projects\\BlockCountriesTask\\IServices\\IBlockedLogService.cs",
+              "RelativeToolTip": "IServices\\IBlockedLogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T13:52:04.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TemporalBlockRequestDto.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\BlockCountriesTask\\Dtos\\TemporalBlockRequestDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\TemporalBlockRequestDto.cs",
+              "ToolTip": "D:\\projects\\C# projects\\BlockCountriesTask\\Dtos\\TemporalBlockRequestDto.cs",
+              "RelativeToolTip": "Dtos\\TemporalBlockRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T13:48:22.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ITemporalBlockService.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\BlockCountriesTask\\IServices\\ITemporalBlockService.cs",
+              "RelativeDocumentMoniker": "IServices\\ITemporalBlockService.cs",
+              "ToolTip": "D:\\projects\\C# projects\\BlockCountriesTask\\IServices\\ITemporalBlockService.cs",
+              "RelativeToolTip": "IServices\\ITemporalBlockService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T13:36:33.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApiValidationErrorResponse.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\BlockCountriesTask\\Errors\\ApiValidationErrorResponse.cs",
+              "RelativeDocumentMoniker": "Errors\\ApiValidationErrorResponse.cs",
+              "ToolTip": "D:\\projects\\C# projects\\BlockCountriesTask\\Errors\\ApiValidationErrorResponse.cs",
+              "RelativeToolTip": "Errors\\ApiValidationErrorResponse.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T13:22:47.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ApiExceptionErrorResponse.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\BlockCountriesTask\\Errors\\ApiExceptionErrorResponse.cs",
+              "RelativeDocumentMoniker": "Errors\\ApiExceptionErrorResponse.cs",
+              "ToolTip": "D:\\projects\\C# projects\\BlockCountriesTask\\Errors\\ApiExceptionErrorResponse.cs",
+              "RelativeToolTip": "Errors\\ApiExceptionErrorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T13:22:22.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CountrySpecParams.cs",
+              "DocumentMoniker": "D:\\projects\\C# projects\\BlockCountriesTask\\SpecParams\\CountrySpecParams.cs",
+              "RelativeDocumentMoniker": "SpecParams\\CountrySpecParams.cs",
+              "ToolTip": "D:\\projects\\C# projects\\BlockCountriesTask\\SpecParams\\CountrySpecParams.cs",
+              "RelativeToolTip": "SpecParams\\CountrySpecParams.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T12:56:58.76Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
